@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Gdańsk/A-Gdańsk.htm'],s:['0','gdynia','seahawk'],p:[['0',17],['borderlands',12],['foot',1],['life',13],['pomeranian',1],['the',1]]});
