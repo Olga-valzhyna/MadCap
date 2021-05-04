@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Gdańsk/A-Gdańsk.htm'],s:['0','garrison','reuter'],p:[['0',17],['being',13],['external',1],['kashubian',13],['park',5],['sovereignty',1],['water',6]]});

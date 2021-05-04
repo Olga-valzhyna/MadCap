@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Gdańsk',c:0},{t:'Gdynia',c:0},{t:'Poland',c:0},{t:'Sopot',c:0},{t:'Tricity',c:0}]});
